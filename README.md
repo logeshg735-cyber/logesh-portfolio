@@ -1,2 +1,0 @@
-# logesh-portfolio
-code description
